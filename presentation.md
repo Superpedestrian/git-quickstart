@@ -1,6 +1,6 @@
 title: Git & Github Quickstart
 output: index.html
-#Eric is playing with his branch..
+
 --
 
 # Git and Github Quickstart
